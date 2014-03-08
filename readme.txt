@@ -8,3 +8,4 @@ Git fuck3.
 Git fuck4.
 Git fuck5.
 My stupid boss still prefers SVN.
+My stupid boss still prefers SVN fuck.
